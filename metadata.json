@@ -1,0 +1,6 @@
+{
+  "name": "Goodway Attestation - UAE Embassy Attestation Services",
+  "description": "Expert UAE Embassy Attestation services in India for educational, personal, and commercial documents. Get verified quotes, timeline guidance, and end-to-end authentication support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
